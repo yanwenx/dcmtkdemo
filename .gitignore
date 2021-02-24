@@ -1,0 +1,5 @@
+# ignore directories named .vs
+.vs/
+
+# ignore directories named x64
+x64/
